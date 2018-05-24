@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+config.yml
+keystore/key.json
+keystore/password.txt

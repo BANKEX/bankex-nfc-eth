@@ -1,0 +1,5 @@
+eth:
+  provider:
+    url: "http://localhost:8545"
+contract:
+  address: "0x0000000000000000000000000000000000000000"
